@@ -1,0 +1,46 @@
+header, .project:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+.no-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.no-button:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+html {
+  background-color: #52ab98;
+}
+
+a, h2, h3, p, label {
+  color: black;
+}
+
+div.col-md-7{
+  background-color: #f2f2f2;
+}
+
+div.col-md-5{
+  background-color: #c8d8e4;
+}
+
+div.text-center{
+  background-color:#f2f2f2;
+}
+
+button.btn.btn-primary{
+  background-color: gray;
+}
+
+header{
+  background-color: #2b6777;
+}
